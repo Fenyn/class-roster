@@ -1,0 +1,9 @@
+﻿  roster.cpp
+C:\Users\Midge\Dropbox\WGU\C++ Project\roster\roster\roster.cpp(26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Midge\Dropbox\WGU\C++ Project\roster\roster\roster.cpp(44): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Midge\Dropbox\WGU\C++ Project\roster\roster\roster.cpp(56): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Midge\Dropbox\WGU\C++ Project\roster\roster\roster.cpp(74): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Midge\Dropbox\WGU\C++ Project\roster\roster\roster.cpp(84): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Midge\Dropbox\WGU\C++ Project\roster\roster\roster.cpp(97): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Midge\Dropbox\WGU\C++ Project\roster\roster\roster.cpp(111): warning C4018: '<': signed/unsigned mismatch
+  roster.vcxproj -> C:\Users\Midge\Dropbox\WGU\C++ Project\roster\Debug\roster.exe
